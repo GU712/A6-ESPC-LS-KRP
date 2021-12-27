@@ -10,6 +10,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]ATUAIS[COLOR yellow] -> [COLOR orange]FILMES NOVOS[/B][/COLOR]</title>
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Os filmes mais atuais do SCOOBY.</info>
@@ -69,6 +70,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]CINEMA[COLOR yellow] -> [COLOR orange]LIVE-ACTION[/B][/COLOR]</title>
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Os filmes com atores humanos.
