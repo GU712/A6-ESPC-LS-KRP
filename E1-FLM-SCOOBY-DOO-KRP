@@ -13,7 +13,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
-<info>Os filmes mais atuais do SCOOBY.</info>
+<info>Os filmes mais atuais do SCOOBY.
+[COLOR orange][B]4 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 2020 a 2021[/B][/COLOR]
+[COLOR orange][B]Os Últimos filmes do SCOOBY.[/B][/COLOR]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -147,6 +150,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]LONGAS[COLOR yellow] -> [COLOR white]FILMES EM ANIMAÇÃO[/B][/COLOR]</title>
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Os filmes lançados apenas em DVD.
@@ -527,6 +531,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]CURTAS[COLOR yellow] -> [COLOR orange]FILMES PARA TELEVISÃO[/B][/COLOR]</title>
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Os filmes feitos para TV.
@@ -676,6 +681,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]ESPECIAIS[COLOR yellow] -> [COLOR orange]SCOOBY DOO EM LEGO[/B][/COLOR]</title>
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/9YZJJtg/3-SCOOBY-DOO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/M6X5d5X/1-SCOOBY-DOO-FAN.png</fanart>
 <info>Os filmes em estilo LEGO.
